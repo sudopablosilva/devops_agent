@@ -13,3 +13,5 @@
 > Note: `payment_service.py` intentionally contains INSECURE demo code with
 > clearly-fake placeholder secrets (`*_FAKE_DO_NOT_USE`) for the review demo.
 > Do not use any pattern from this file in real code.
+>
+Attempt to trigger DevOps Agent

@@ -1,15 +1,6 @@
-# DevOps Agent - Release Readiness Review Demo
-
-> This repository demonstrates AWS DevOps Agent's release readiness review
-> capability for C6 Bank's CI/CD quality gate use case.
-
-## Files
-
-- `payment_service.py` - Vulnerable code (triggers BLOCK)
-- `payment_service_fixed.py` - Compliant code (triggers Safe to Release)
-- `kiro-config/review-prompt.md` - Custom review rules for C6 Bank
-- `.kiro/steering/c6-standards.md` - Same rules in Kiro steering format
-
-> Note: `payment_service.py` intentionally contains INSECURE demo code with
-> clearly-fake placeholder secrets (`*_FAKE_DO_NOT_USE`) for the review demo.
-> Do not use any pattern from this file in real code.
+IyBEZXZPcHMgQWdlbnQgLSBSZWxlYXNlIFJlYWRpbmVzcyBSZXZpZXcgRGVtbwoKPiBUaGlzIHJlcG9zaXRvcnkgZGVtb25zdHJhdGVzIEFXUyBEZXZPcHMgQWdlbnQncyByZWxlYXNlIHJlYWRpbmVzcyByZXZpZXcKPiBjYXBhYmlsaXR5IGZvciBDNiBCYW5rJ3MgQ0kvQ0QgcXVhbGl0eSBnYXRlIHVzZSBjYXNlLgoKIyMgRmlsZXMKCi0gYHBheW1lbnRfc2VydmljZS5weWAgLSBWdWxuZXJhYmxlIGNvZGUgKHRyaWdnZXJzIEJMT0NLKQotIGBwYXltZW50X3NlcnZpY2VfZml4ZWQucHlgIC0gQ29tcGxpYW50IGNvZGUgKHRyaWdnZXJzIFNhZmUgdG8gUmVsZWFzZSkKLSBga2lyby1jb25maWcvcmV2aWV3LXByb21wdC5tZGAgLSBDdXN0b20gcmV2aWV3IHJ1bGVzIGZvciBDNiBCYW5rCi0gYC5raXJvL3N0ZWVyaW5nL2M2LXN0YW5kYXJkcy5tZGAgLSBTYW1lIHJ1bGVzIGluIEtpcm8gc3RlZXJpbmcgZm9ybWF0Cgo+IE5vdGU6IGBwYXltZW50X3NlcnZpY2UucHlgIGludGVudGlvbmFsbHkgY29udGFpbnMgSU5TRUNVUkUgZGVtbyBjb2RlIHdpdGgKPiBjbGVhcmx5LWZha2UgcGxhY2Vob2xkZXIgc2VjcmV0cyAoYCpfRkFLRV9ET19OT1RfVVNFYCkgZm9yIHRoZSByZXZpZXcgZGVtby4KPiBEbyBub3QgdXNlIGFueSBwYXR0ZXJuIGZyb20gdGhpcyBmaWxlIGluIHJlYWwgY29kZS4KPgpBdHRlbXB0IHRvIHRyaWdnZXIgRGV2T3BzIEFnZW50CgpXZWJob29rIHJlLWFzc29jaWF0aW9uIHRlc3QgcHVzaC4K# Trigger DevOps Agent review
+# Trigger DevOps Agent - 11:40:16
+# Final trigger after full setup - 2026-07-22T11:50:22Z
+# Association updated 12:06:57
+# Full registration complete - 2026-07-22T12:22:03Z
+# Connector permissions approved - 2026-07-22T12:37:38Z
